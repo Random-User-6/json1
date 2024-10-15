@@ -1,12 +1,7 @@
 {
-    "Enterprise.connid": "055c037f24dfda81",
-    "Enterprise.dnis": "6195623884",
     "Enterprise.device_id": "9842f",
-    "Enterprise.call_type": "ATM1",
-    "Enterprise.email_address": "Joe.Someone@someserver.com",
     "Enterprise.last_intent": "support_agent",
     "Enterprise.first_name": "Joe",
-    "Enterprise.last_name": "Someone",
     "Enterprise.employee_id": "00123456789",
     "Enterprise.ani": "6194640259"
 }
